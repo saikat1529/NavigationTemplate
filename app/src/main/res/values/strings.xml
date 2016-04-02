@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ডিমের ফার্ম</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu Items -->
+    <string name="collections">ডিম কালেকশন</string>
+    <string name="food">খাবার ক্রয়</string>
+    <string name="medicine">ওষুধ ক্রয়</string>
+    <string name="sale">ডিম বিক্রি</string>
+</resources>

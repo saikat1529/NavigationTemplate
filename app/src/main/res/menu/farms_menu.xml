@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_collection"
+            android:icon="@drawable/eggs"
+            android:title="@string/collections"/>
+        <item
+            android:id="@+id/menu_food"
+            android:icon="@drawable/foods"
+            android:title="@string/food"/>
+        <item
+            android:id="@+id/menu_medicine"
+            android:icon="@drawable/medicine"
+            android:title="@string/medicine"/>
+        <item
+            android:id="@+id/menu_sale"
+            android:icon="@drawable/sales"
+            android:title="@string/sale"/>
+    </group>
+</menu>
