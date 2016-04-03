@@ -62,7 +62,7 @@
             app:itemTextColor="@drawable/item_text_selector"
             app:itemIconTint="@drawable/item_text_selector"
             app:itemBackground="@drawable/item_back"
-            style="@style/NavDrawerTextStyle"/>
+            app:theme="@style/NavDrawerTextStyle"/>
 
     </android.support.v4.widget.DrawerLayout>
 
